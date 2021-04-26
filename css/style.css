@@ -1262,12 +1262,6 @@ form label {
 .btn.with-arrow:hover {
   padding-right: 50px;
 }
-.btn.with-arrow:hover i {
-  color: #fff;
-  right: 18px;
-  visibility: visible;
-  opacity: 1;
-}
 
 #gtco-contact h3 {
   color: #fff;
