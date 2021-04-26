@@ -1232,7 +1232,7 @@ form label {
 
 .btn-outline {
   background: none;
-  border: 2px solid rgb(255, 0, 0);
+  border: 2px solid rgb(255, 255, 255);
   font-size: 16px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -1259,14 +1259,10 @@ form label {
   -o-transition: 0.2s;
   transition: 0.2s;
 }
-.btn.with-arrow:hover {
-  padding-right: 50px;
-}
-.btn.with-arrow:hover i {
+
+#gtco-contact h3 {
   color: #fff;
-  right: 18px;
-  visibility: visible;
-  opacity: 1;
+  font-size: 30px;
 }
 
 .row-pb-md {
