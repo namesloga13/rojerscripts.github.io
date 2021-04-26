@@ -5,6 +5,10 @@
   font-weight: normal;
   font-style: normal;
 }
+html {
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
 /* =======================================================
 *
 * 	Template Style 
