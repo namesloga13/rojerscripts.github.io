@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 1280px) {
   .gtco-nav {
-    padding: 20px 0;
+    padding: 0px 0;
   }
 }
 .gtco-nav #gtco-logo {
