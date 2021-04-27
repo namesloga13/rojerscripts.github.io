@@ -19,6 +19,12 @@ let repos = [
         desc: "CLEO расширяет возможности скриптинга и позволяет использовать тысячи уникальных модов , которые изменяют и дополняют процесс игры.",
         url: "/scripts/CLEO.ZIP",
     },
+    {
+        id: 4,
+        title: "SAMPFUNCS v5.4.1",
+        desc: "SAMPFUNCS это дополнение к библиотеке CLEO 4, глобально расширяющее возможности скриптеров. ",
+        url: "/scripts/sampfunks for arizona.ZIP",
+    },
 ]
 
 if(innerContent) {
