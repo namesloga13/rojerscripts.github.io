@@ -5,7 +5,7 @@ let repos = [
         id: 1,
         title: "Подсчёт онлайна из логов",
         desc: "Помощник в подсчёте онлайна администрации, лидеров и остальных игроков.",
-        url: "https://rojerscripts.github.io/",
+        url: "/scripts/online.rar",
     },
 ]
 
