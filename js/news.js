@@ -9,15 +9,12 @@ let repos = [
 ]
 
 if(innerContent) {
-    for (var i = 0; i < repos.length; i++) {
-        var reposObj = repos[i]
-        var reposStr = `<div class="repos-element" id="repos-${reposObj.id}">
-    <div class="info">
-        <p class="title">${reposObj.title}</p>
-        ${reposObj.desc.replace(/\n/g,"<br>")}
-    </div>
-    <a class="download" href="${reposObj.url}" download>Скачать</a>
+    for (var i = 0; i < news.length; i++) {
+        var newsObj = news[i]
+        var newsStr = `<div class="news-element" id="news-${newsObj.id}">
+    <p class="title">${newsObj.title}</p>
+    ${newsObj.desc.replace(/\n/g,"<br>")}
 </div>`
-        innerContent.innerHTML += reposStr
+        innerContent.innerHTML += newsStr
     }
 }
