@@ -1,6 +1,5 @@
-import {snippets} from "./snippets.js";
 
-var innerContent = document.getElementsByClassName("inner-content")[0]
+var innerContent = document.getElementsByClassName("ebaniy-obema")[0]
 let repos = [
     {
         id: 1,
