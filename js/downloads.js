@@ -3,27 +3,9 @@ var innerContent = document.getElementsByClassName("ebaniy-obema")[0]
 let repos = [
     {
         id: 1,
-        title: "ARZ Assistant",
-        desc: "Помощник для Arizona Role Play",
-        url: "/reposdata/arzassistant.lua",
-    },
-    {
-        id: 2,
-        title: "AFK Tools",
-        desc: "Помощник для прокачки аккаунта на Arizona Role Play",
-        url: "/reposdata/afktools.lua",
-    },
-    {
-        id: 3,
-        title: "VR Chat Remover",
-        desc: "Управление випчатом для Arizona Role Play",
-        url: "/reposdata/vrcr.lua",
-    },
-    {
-        id: 4,
-        title: "Imgui Scoreboard",
-        desc: "Новая таблица игроков на MoonImGui",
-        url: "/reposdata/imscoreboard.lua",
+        title: "Подсчёт онлайна из логов",
+        desc: "Помощник в подсчёте онлайна администрации, лидеров и остальных игроков.",
+        url: "https://rojerscripts.github.io/",
     },
 ]
 
