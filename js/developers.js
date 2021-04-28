@@ -4,7 +4,7 @@ let news = [
     {
         id: 1,
         title: `Артём Епифанцев <a href=\"https://vk.com/j.rojers\" style=\"color: rgb(255, 0, 0); text-decoration: none; font-weight: bold;\">[VK]</a> `,
-        desc: '<b>' + "Can write scripts in:" + '</b> \n LUA, JS \n <b>' +  "About me" + '</b> \n Бывший администратор сервера Arizona | Red-Rock, основатель семьи <a href=\"discord.gg/bWqMJSUy3z" style=\"color: rgb(255, 0, 0); text-decoration: none; font-weight: bold;\">Rojers 💸 Squad</a>',
+        desc: '<b>' + "Умеет писать скрипты на:" + '</b> \n LUA, JS \n <b>' +  "О себе:" + '</b> \n Бывший администратор сервера Arizona | Red-Rock, основатель семьи <a href=\"discord.gg/bWqMJSUy3z" style=\"color: rgb(255, 0, 0); text-decoration: none; font-weight: bold;\">Rojers 💸 Squad</a> \n <b>' +  "Контакты" + '</b> \n  ',
     },
 ]
 
